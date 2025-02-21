@@ -1,6 +1,8 @@
 #general
 was preparing for my interviews. 
 
+https://github.com/anishLearnsToCode/books
+
 • Key Fundamentals: 
 1. Scalability: https://lnkd.in/gpge_z76
 2. Latency vs Throughput: https://lnkd.in/g_amhAtN
